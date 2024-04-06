@@ -30,3 +30,4 @@ RUN pip install --upgrade pip
 RUN pip install pydoc-markdown
 RUN pip install pyyaml
 RUN pip install colored
+RUN pip install python-dotenv
